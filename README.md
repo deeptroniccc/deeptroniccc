@@ -38,14 +38,7 @@ I started by exploring programming and web development, but over time, I've deve
 ### 🌐 Multilingual AI
 [View Project on GitHub](https://github.com/deeptroniccc/multilingual-ai)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deptronicc&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deptronicc&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

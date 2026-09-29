@@ -24,34 +24,27 @@ I started by exploring programming and web development, but over time, I've deve
 **Core Areas:** Artificial Intelligence · Backend Development · REST APIs · Databases · Digital Electronics · Verilog HDL · RTL Design
 
 ---
-
 ## 🚀 Featured Projects
 
 ### ✈️ Aeris-Twin
+AI-enabled digital twin system for UAV engine health monitoring, telemetry analytics, and mission visualization.
 
-AI-enabled digital twin system for UAV engine health monitoring, telemetry analytics, fault injection, and mission visualization.
-
-[![Aeris-Twin](https://github-readme-stats.vercel.app/api/pin/?username=deptronicc\&repo=Aeris-Twin\&theme=tokyonight\&hide_border=true)](https://github.com/deptronicc/Aeris-Twin)
+🔗 [View Project on GitHub](https://github.com/deptronicc/Aeris-Twin)
 
 ### 💚 Wellspring — Mental Health App
+A multilingual, AI-powered mental wellness web application for students.
 
-A multilingual, AI-powered mental wellness web application designed to provide a supportive digital experience.
-
-[![Wellspring](https://github-readme-stats.vercel.app/api/pin/?username=deptronicc\&repo=Wellspring-Mental-Health-App\&theme=tokyonight\&hide_border=true)](https://github.com/deptronicc/Wellspring-Mental-Health-App)
+🔗 [View Project on GitHub](https://github.com/deptronicc/Wellspring-Mental-Health-App)
 
 ### 🔥 BurnInGuard
+An intelligent electronic component screening system for anomaly detection and early failure prediction.
 
-An intelligent electronic component screening system exploring anomaly detection and early failure prediction.
-
-[![BurnInGuard](https://github-readme-stats.vercel.app/api/pin/?username=deptronicc\&repo=BurnInGuard\&theme=tokyonight\&hide_border=true)](https://github.com/deptronicc/BurnInGuard)
+🔗 [View Project on GitHub](https://github.com/deptronicc/BurnInGuard)
 
 ### 🌐 Multilingual AI
+A real-time speech transcription and translation application.
 
-A real-time speech transcription and translation application for multilingual communication.
-
-[![Multilingual AI](https://github-readme-stats.vercel.app/api/pin/?username=deptronicc\&repo=multilingual-ai\&theme=tokyonight\&hide_border=true)](https://github.com/deptronicc/multilingual-ai)
-
----
+🔗 [View Project on GitHub](https://github.com/deptronicc/multilingual-ai)
 
 ## 📊 GitHub Stats
 

@@ -50,7 +50,7 @@ I started by exploring programming and web development, but over time, I've deve
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/deptronicc">
+  <a href="[https://github.com/deptronicc](https://github.com/deeptroniccc)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/souradeep-barman-7aab3a2a5/">

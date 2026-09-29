@@ -27,24 +27,16 @@ I started by exploring programming and web development, but over time, I've deve
 ## 🚀 Featured Projects
 
 ### ✈️ Aeris-Twin
-AI-enabled digital twin system for UAV engine health monitoring, telemetry analytics, and mission visualization.
-
-🔗 [View Project on GitHub](https://github.com/deptronicc/Aeris-Twin)
+[View Project on GitHub](https://github.com/deeptroniccc/Aeris-Twin)
 
 ### 💚 Wellspring — Mental Health App
-A multilingual, AI-powered mental wellness web application for students.
-
-🔗 [View Project on GitHub](https://github.com/deptronicc/Wellspring-Mental-Health-App)
+[View Project on GitHub](https://github.com/deeptroniccc/Wellspring-Mental-Health-App)
 
 ### 🔥 BurnInGuard
-An intelligent electronic component screening system for anomaly detection and early failure prediction.
-
-🔗 [View Project on GitHub](https://github.com/deptronicc/BurnInGuard)
+[View Project on GitHub](https://github.com/deeptroniccc/BurnInGuard)
 
 ### 🌐 Multilingual AI
-A real-time speech transcription and translation application.
-
-🔗 [View Project on GitHub](https://github.com/deptronicc/multilingual-ai)
+[View Project on GitHub](https://github.com/deeptroniccc/multilingual-ai)
 
 ## 📊 GitHub Stats
 
